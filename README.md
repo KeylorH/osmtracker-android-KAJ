@@ -16,6 +16,7 @@ This is OSMTracker's default repository for download custom layouts functionalit
   + [Elementos de infraestructura ciclista](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/infraestructura_ciclista/README.md)
   + [Elementos de infraestructura vial](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/infraestructura_vial/README.md)
   + [Obstáculos para ciclístas](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/obstáculos_para_ciclístas/README.md)
++ [Mapeo Parques de CR.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/mapeo_parques_cr/README.md)
 + [Recycling.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/recycling/README.md)
 + [Simple layout](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/simple/README.md)
 + [Transporte público.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/transporte_publico/README.md)
