@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="Poste de luz" icon="/mapeo_parques_cr_icons/poste_luz.png" />
+			<button type="tag" label="Edificios" icon="/mapeo_parques_cr_icons/edificios.png" />
+			<button type="tag" label="Parada de bus" icon="/mapeo_parques_cr_icons/parada_bus.png" />
+		</row>
+		<row>
+			<button type="tag" label="Elementos de parque de niños" icon="/mapeo_parques_cr_icons/parque_ninos.png" />
+			<button type="tag" label="Bancas" icon="/mapeo_parques_cr_icons/bancas.png" />
+			<button type="tag" label="Mesas" icon="/mapeo_parques_cr_icons/mesas.png" />
+		</row>
+		<row>
+			<button type="tag" label="Basureros" icon="/mapeo_parques_cr_icons/basureros.png" />
+			<button type="tag" label="Bebedero (no funcional)" icon="/mapeo_parques_cr_icons/bebedero.png" />
+			<button type="tag" label="Puesto de guarda" icon="/mapeo_parques_cr_icons/puesto_guarda.png" />
+		</row>
+		<row>
+			<button type="tag" label="Árboles con arbustos" icon="/mapeo_parques_cr_icons/arbol_arbusto.png" />
+			<button type="tag" label="Árbol sin arbusto" icon="/mapeo_parques_cr_icons/arbol_solo.png" />
+			<button type="tag" label="Plantas" icon="/mapeo_parques_cr_icons/plantas.png" />
+		</row>
+		<row>
+			<button type="tag" label="Tipo de piso - Zacate" icon="/mapeo_parques_cr_icons/piso_zacate.png" />
+			<button type="tag" label="Tipo de piso - Ladrillo" icon="/mapeo_parques_cr_icons/piso_ladrillo.png" />
+			<button type="tag" label="Tipo de piso - Concreto" icon="/mapeo_parques_cr_icons/piso_concreto.png" />
+		</row>
+	</layout>
+</layouts>
